@@ -44,7 +44,7 @@ env:
   # Github 用户名
   GITHUB_USER_NAME: poppy1
   # Github 邮箱
-  GITHUB_USER_EMAIL: ${{ secrets.EMAIL }}
+  GITHUB_USER_EMAIL: wylhf1990@gmail.com
   # Github
   GITHUB: github.com/poppy1/Netgear_R7800_OpenWrt_LEDE.git
   # 上传固件
