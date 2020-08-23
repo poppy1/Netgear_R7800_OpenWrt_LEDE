@@ -11,7 +11,7 @@ name: OpenWrt-Netgear_R7800
 on:
 # 定时触发
   schedule:
-    - cron: 0 1 * * *
+    - cron: 0 0 * * *
 
 # Release 发布触发
 #  release:
